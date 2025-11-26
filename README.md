@@ -5,8 +5,9 @@ You can copy-paste it directly into your README.
 
 # 🚚 **Process Flow of Courier / Delivery Management System**
 
-This project manages courier records using a simple menu-driven C program.
-Below is the complete workflow explaining how the system works:
+📄 Abstract
+
+The Courier / Delivery Management System is a simple console-based C program designed to efficiently manage courier records. It allows users to add new couriers, display all existing couriers, search for specific couriers by tracking ID, and update the delivery status of shipments. The system maintains essential details such as sender and receiver information, delivery address, and current status, ensuring easy tracking and management of parcels. With a user-friendly menu-driven interface, this project helps streamline courier operations and provides a practical example of basic data handling using structures in C.
 
 ---
 
