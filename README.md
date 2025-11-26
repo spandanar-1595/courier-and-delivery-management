@@ -103,30 +103,24 @@ User Choice
 ---
 
 📸 Screenshots
+
 1️⃣ Program Home Menu
 
-(Show the main menu options displayed when the program starts.)
+<img width="513" height="235" alt="Screenshot 2025-11-26 164451" src="https://github.com/user-attachments/assets/8e4c2e47-2c72-46b5-a71f-89c14f8b6def" />
+
 
 2️⃣ Adding a New Courier
 
-(Screenshot of entering sender, receiver, and address details.)
+<img width="380" height="112" alt="2" src="https://github.com/user-attachments/assets/c40fc7c5-c9e1-4e4d-8567-50e63697873a" />
+
 
 3️⃣ Courier Added Successfully Message
 
-(Show the confirmation message after adding a record.)
+<img width="333" height="137" alt="Screenshot 2025-11-24 220127" src="https://github.com/user-attachments/assets/9f32ed17-9a15-42d2-9d5e-2bab84cb9ac3" />
+
 
 4️⃣ Displaying All Courier Records
 
-(Screenshot of listing all stored courier details.)
+<img width="315" height="117" alt="Screenshot 2025-11-24 220428" src="https://github.com/user-attachments/assets/127e8ef6-ce7d-4a5b-b936-a1259a00a96a" />
 
-5️⃣ Searching a Courier by Tracking ID
 
-(Show the result for a successful or unsuccessful search.)
-
-6️⃣ Updating Delivery Status
-
-(Screenshot showing how a status update is entered and confirmed.)
-
-7️⃣ Exit Screen
-
-(Display the final message when the user exits the system.)
