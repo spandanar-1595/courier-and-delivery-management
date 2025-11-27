@@ -11,7 +11,7 @@ The Courier / Delivery Management System is a simple console-based C program des
 
 ---
 
-## 🔹 **1. Start the Program**
+## 🔹 **1. Start the Program**(Features of the program)
 
 The system begins with an infinite loop that continuously displays the **main menu** until the user chooses to exit.
 
@@ -101,7 +101,56 @@ User Choice
 ```
 
 ---
+Technical Requirements:
+Software Requirements
 
+C Compiler (GCC / MinGW / Turbo C / Clang / CodeBlocks)
+
+Any IDE such as:
+
+VS Code
+
+DevC++
+
+CodeBlocks
+
+OnlineGDB
+
+HARDWARE REQUIREMENTS:
+
+OS: Windows / Linux / macOS
+
+RAM: 2GB
+
+Processor: Any basic CPU
+
+Storage: Just a few KB for source code
+
+C Concepts Used
+
+Structs
+
+Arrays
+
+Strings
+
+Loops
+
+Switch case
+
+FILE HANDLING:
+courier-management-system/
+│── courier.c
+│── README.md
+└── screenshots/   (optional)
+How to run the program:
+Windows (MinGW)
+gcc courier.c -o courier
+courier
+
+Linux
+gcc courier.c -o courier
+./courier
 📸 Screenshots
 
 1️⃣ Program Home Menu
